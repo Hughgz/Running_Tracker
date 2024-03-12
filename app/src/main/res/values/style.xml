@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="fragmentSteps">
+        <item name="android:background">@drawable/rectangle_radius_steps</item>
+    </style>
+    <style name="sizeImgNavbar">
+        <item name="android:layout_width">35dp</item>
+        <item name="android:layout_height">35dp</item>
+    </style>
+    <style name="textSizeNavbar">
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="fragmentHome">
+        <item name="android:background">@drawable/rectangle_radius_16</item>
+    </style>
+    <style name="fragmentLogin">
+        <item name="android:background">@drawable/rectangle_radius_16</item>
+    </style>
+</resources>

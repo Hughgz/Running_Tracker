@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">UptrainApp</string>
+    <string name="welcome">Chào bạn, bạn đã sẳn sàng chạy chưa</string>
+    <string name="step">Số bước</string>
+    <string name="numStep">100</string>
+    <string name="totalSpeed">20km/h</string>
+    <string name="km">2000km</string>
+    <string name="totalTime">600 giờ</string>
+    <string name="speed">Tốc độ</string>
+    <string name="running">Quãng Đường</string>
+    <string name="time">Thời gian</string>
+    <string name="home">Trang chủ</string>
+    <string name="profile">Cá nhân</string>
+    <string name="notification">Thông báo</string>
+    <string name="setting">Cài đặt</string>
+    <string name="facebook">Đăng nhập với Facebook</string>
+    <string name="google">Đăng nhập với Google</string>
+    <string name="account">Đăng nhập với tài khoản</string>
+    <string name="register">Nếu bạn chưa có tài khoản?</string>
+
+    <string name="dangki">Đăng ký</string>
+    <string name="titleHeathy">Giữ gìn sức khỏe cùng Uptrain nào!</string>
+    <string name="titleHeathy2">Đăng ký / Đăng nhập với tài khoản Uptrain -_-</string>
+    <string name="inputEmail">Email:</string>
+    <string name="inputPassword">Mật khẩu:</string>
+    <string name="forgotPassword">Quên mật khẩu?</string>
+    <string name="repeatPassword">Nhập lại mật khẩu:</string>
+    <string name="login">Đăng nhập</string>
+    <string name="infoAccount">Thông tin tài khoản</string>
+    <string name="connect">Kết nối và ứng dụng</string>
+    <string name="loginAndSecurity">Đăng nhập và bảo mật</string>
+    <string name="private_user">Quyền riêng tư</string>
+    <string name="settingAndNotifi">Cài đặt và thông báo</string>
+    <string name="support">Trung tâm hỗ trợ</string>
+    <string name="rule">Điều khoản Uptrain</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="message">Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.running/.MainActivity }</string>
+
+</resources>
