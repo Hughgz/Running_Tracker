@@ -18,7 +18,8 @@
         android:background="@color/white"
         android:elevation="10dp"
         android:orientation="vertical">
-        <LinearLayout android:layout_gravity="center"
+        <LinearLayout
+            android:layout_gravity="center"
             android:id="@+id/btn_login_facebook"
             android:layout_height="40dp"
             android:layout_width="270dp"

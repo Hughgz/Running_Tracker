@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">UptrainApp</string>
+    <string name="app_name">Uptrain</string>
     <string name="welcome">Chào bạn, bạn đã sẳn sàng chạy chưa</string>
     <string name="step">Số bước</string>
     <string name="numStep">100</string>
@@ -36,5 +36,10 @@
     <string name="language">Ngôn ngữ</string>
     <string name="logout">Đăng xuất</string>
     <string name="message">Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.running/.MainActivity }</string>
+
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
 
 </resources>
